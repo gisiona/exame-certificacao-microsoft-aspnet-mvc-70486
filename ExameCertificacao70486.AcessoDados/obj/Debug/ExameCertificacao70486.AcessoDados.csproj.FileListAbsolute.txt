@@ -1,0 +1,5 @@
+C:\TFS\GitHub\ExameCertificacaoMicrosoftAspNetMvc70486\ExameCertificacao70486.AcessoDados\bin\Debug\ExameCertificacao70486.AcessoDados.dll
+C:\TFS\GitHub\ExameCertificacaoMicrosoftAspNetMvc70486\ExameCertificacao70486.AcessoDados\bin\Debug\ExameCertificacao70486.AcessoDados.pdb
+C:\TFS\GitHub\ExameCertificacaoMicrosoftAspNetMvc70486\ExameCertificacao70486.AcessoDados\obj\Debug\ExameCertificacao70486.AcessoDados.csprojResolveAssemblyReference.cache
+C:\TFS\GitHub\ExameCertificacaoMicrosoftAspNetMvc70486\ExameCertificacao70486.AcessoDados\obj\Debug\ExameCertificacao70486.AcessoDados.dll
+C:\TFS\GitHub\ExameCertificacaoMicrosoftAspNetMvc70486\ExameCertificacao70486.AcessoDados\obj\Debug\ExameCertificacao70486.AcessoDados.pdb
